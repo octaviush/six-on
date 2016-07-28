@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "main.js": {
+      "files": [
+        "scripts/main.js"
+      ],
+      "main": true
+    },
+    "main.css": {
+      "files": [
+        "styles/main.scss"
+      ],
+      "main": true
+    },
+    "customizer.js": {
+      "files": [
+        "scripts/customizer.js"
+      ]
+    },
+    "jquery.js": {
+      "bower": ["jquery"]
+    },
+    "6onthebeat.js": {
+      "vendor": ["assets/scripts/6onthebeat.js"
+      ]
+    },
+    "admi.js": {
+      "vendor": ["assets/scripts/admi.js"
+      ]
+    },
+    "share-buttons.js": {
+      "vendor": ["assets/scripts/share-buttons.js"
+      ]
+    },
+    "share-buttons.css": {
+      "files": [
+        "styles/share-buttons.css"
+      ],
+      "main": true
+    },
+    "admi.css": {
+      "files": [
+        "styles/admi.css"
+      ],
+      "main": true
+    },
+    "6onthebeat.css": {
+      "files": [
+        "styles/6onthebeat.css"
+      ],
+      "main": true
+    },
+  "config": {
+    "devUrl": "http://localhost:8888/wordpress/"
+    }
+  }
+}
