@@ -21,9 +21,9 @@ use Roots\Sage\Wrapper;
     <div class="wrap container top-space" role="document">
       <div class="content row">
         <main class="main">
-        <div class="row">
+        
           <?php include Wrapper\template_path(); ?>
-          </div>
+          
         </main><!-- /.main -->
         <?php if (Setup\display_sidebar()) : ?>
           <aside class="sidebar">

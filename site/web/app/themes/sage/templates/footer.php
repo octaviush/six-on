@@ -1,12 +1,12 @@
 <footer class="content-info">
 <hr>
   <div class="container">
-  	<div class="row">
+  	<div class="footer-side">
     <?php dynamic_sidebar('sidebar-footer'); ?>
     </div>
-    <div class="row">
+    <div class="footer-linkz">
 
-        <div class="col-md-12">
+        <div class="6onthebeat">
         <hr>
           <footer>
           <div class="row">

@@ -20,8 +20,8 @@ use Roots\Sage\Wrapper;
     ?>
     <div class="wrap container top-space" role="document">
       <div class="content row">
-        <main class="col-md-8">
-        <div class="row">
+        <main class="main">
+        <div class="base-page-base">
           <?php include Wrapper\template_path(); ?>
           </div>
         </main><!-- /.main -->
