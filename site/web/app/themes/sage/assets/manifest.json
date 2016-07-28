@@ -51,7 +51,7 @@
       "main": true
     },
   "config": {
-    "devUrl": "http://localhost:8888/wordpress/"
+    "devUrl": "http://6onthebeat.dev"
     }
   }
 }
