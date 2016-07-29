@@ -9,7 +9,7 @@ users:
     keys:
       - "{{ lookup('file', '~/.ssh/id_rsa.pub') }}"
       # - https://github.com/username.keys
-  - name: "{{ bo_user }}"
+  - name: "{{ admin_user }}"
     groups:
       - sudo
     keys:
