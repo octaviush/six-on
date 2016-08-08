@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [staging]
-159.203.176.31
+6onthebeat.com
 
 [web]
 6onthebeat.com
