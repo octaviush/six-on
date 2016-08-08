@@ -10,6 +10,6 @@ jQuery(document).ready(function ( $ ) {
 
 jQuery(document).ready(function ( $ ) { 
         
-	$('#tag_cloud-2').addClass('col-md-9').removeClass('col-md-1');
+	$('#text-11').addClass('col-md-9').removeClass('col-md-1');
 	
 });

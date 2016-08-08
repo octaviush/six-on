@@ -11,6 +11,6 @@
 	  <?php get_template_part('templates/content', get_post_type() != 'post' ? get_post_type() : get_post_format()); ?>
 	<?php endwhile; ?>
 </div>
-<div class="col-md-12">
+<div class="cat-vid">
 <?php the_posts_navigation(); ?>
 </div>

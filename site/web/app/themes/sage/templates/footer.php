@@ -1,7 +1,7 @@
 <footer class="content-info">
 <hr>
   <div class="container">
-  	<div class="footer-side">
+  	<div class="row">
     <?php dynamic_sidebar('sidebar-footer'); ?>
     </div>
     <div class="footer-linkz">
