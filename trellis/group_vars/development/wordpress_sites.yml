@@ -5,7 +5,9 @@
 wordpress_sites:
   6onthebeat.com:
     site_hosts:
-      - 6onthebeat.dev
+      - canonical: 6onthebeat.dev
+        redirects:
+          - www.6onthebeat.dev
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: admin@6onthebeat.dev
     multisite:
